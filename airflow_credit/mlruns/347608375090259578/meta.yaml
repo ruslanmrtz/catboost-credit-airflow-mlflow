@@ -1,0 +1,6 @@
+artifact_location: file:/home/ruslan/airflow_credit/mlflow
+creation_time: 1740288993339
+experiment_id: '347608375090259578'
+last_update_time: 1740288993339
+lifecycle_stage: active
+name: Credit
